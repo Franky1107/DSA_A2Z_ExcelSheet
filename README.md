@@ -2,7 +2,7 @@
 
 An Excel workbook for working through [Striver's A2Z DSA Sheet](https://takeuforward.org/prep-hub/strivers-a2z-dsa-sheet?open=none) on LeetCode and tracking progress problem by problem.
 
-📥 **[Striver_A2Z_DSA_LeetCode_Tracker.xlsx](./Striver_A2Z_DSA_LeetCode_Tracker.xlsx)** (open it in Excel, LibreOffice, or Google Sheets)
+📥 **[Striver_A2Z_DSA_LeetCode_Tracker.xlsx](./Striver_A2Z_DSA_Tracker_Fixed_Links.xlsx)** (open it in Excel, LibreOffice, or Google Sheets)
 
 ## What's inside
 
